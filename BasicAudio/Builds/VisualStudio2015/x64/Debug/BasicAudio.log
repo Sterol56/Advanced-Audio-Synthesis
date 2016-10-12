@@ -1,0 +1,39 @@
+﻿  MainComponent.cpp
+c:\users\cheng\desktop\basicaudio\source\Sine.h(27): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\cheng\desktop\basicaudio\source\Sine.h(37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\cheng\desktop\basicaudio\source\Sine.h(37): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(12): warning C4100: 'x': unreferenced formal parameter
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(16): warning C4100: 'x': unreferenced formal parameter
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(401): warning C4100: 'step': unreferenced formal parameter
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(401): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(401): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(401): warning C4100: 'init': unreferenced formal parameter
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(406): warning C4100: 'step': unreferenced formal parameter
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(406): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(406): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(406): warning C4100: 'init': unreferenced formal parameter
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(411): warning C4100: 'step': unreferenced formal parameter
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(411): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(411): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(411): warning C4100: 'init': unreferenced formal parameter
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(418): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(418): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(423): warning C4100: 'fmax': unreferenced formal parameter
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(423): warning C4100: 'fmin': unreferenced formal parameter
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(430): warning C4100: 'val': unreferenced formal parameter
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(430): warning C4100: 'key': unreferenced formal parameter
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(430): warning C4100: 'zone': unreferenced formal parameter
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(457): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(609): warning C4100: 'date_usec': unreferenced formal parameter
+c:\users\cheng\desktop\basicaudio\source\FaustReverb.h(811): warning C4100: 'samplingFreq': unreferenced formal parameter
+..\..\Source\MainComponent.cpp(27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+..\..\Source\MainComponent.cpp(148): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\..\Source\MainComponent.cpp(152): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\Source\MainComponent.cpp(187): warning C4100: 'isKeyDown': unreferenced formal parameter
+..\..\Source\MainComponent.cpp(208): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\..\Source\MainComponent.cpp(209): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\Source\MainComponent.cpp(212): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+..\..\Source\MainComponent.cpp(234): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+..\..\Source\MainComponent.cpp(241): warning C4244: '+=': conversion from 'stk::StkFloat' to 'float', possible loss of data
+  BasicAudio.vcxproj -> C:\Users\Cheng\Desktop\BasicAudio\Builds\VisualStudio2015\x64\Debug\BasicAudio.exe
+  BasicAudio.vcxproj -> x64\Debug\\BasicAudio.pdb (Full PDB)
