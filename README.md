@@ -1,1 +1,2 @@
 # Advanced-Audio-Synthesis
+This is for Music 256a HW2. I implemented a mini piano (or flute tbh) using keyboards to control the oscs. When you press keyboard from a to j (you can always set the oscNum to be larger), it generate the sound you set for the slider on the control panel. The output is smoothed and I tried to use ADSR to eliminate the click and pop sound. Didn't find perfect parameters. Use saw for the poker face song opening.
